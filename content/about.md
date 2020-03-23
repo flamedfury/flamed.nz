@@ -2,4 +2,4 @@
 title: About
 ---
 
-Hey, I'm Kickflip. Nice to meet you.
+Hey, I'm fLaMEd, I have been a citizen of the Internet since 1996.
