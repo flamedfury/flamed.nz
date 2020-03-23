@@ -1,0 +1,37 @@
+baseURL = "https://flamed.nz/"
+languageCode = "en-us"
+title = "fLaMEd.nz"
+theme = "flamed"
+paginate = 100
+
+[permalinks]
+  posts = "/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
+  [[menu.main]]
+    name = "Bookmarks"
+    url = "/tags/bookmarks/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[params]
+  dateFormat = "January 2, 2006"
+  homeText = "fLaMEd's home on the Internet."
+
+[taxonomies]
+  tag = "tags"

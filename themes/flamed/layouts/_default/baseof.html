@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+    <body>
+    <!-- header, repeat across entire site -->
+    {{ partial "header.html" . }}
+
+    <!-- main content -->
+        {{ block "main" . }}{{ end }}
+
+
+        <!-- post list -->
+
+
+    <!-- footer, repeat across entire site -->
+        {{ partial "footer.html" . }}
+
+    </body>
+</html> 

@@ -1,0 +1,14 @@
+{{ define "main" }} 
+
+<!-- main content -->
+<article>
+    <header>
+        <h1 class="article-header">{{ .Title }}</h1>
+        <p class="date-muted">{{ partial "date-and-tags.html" . }}</p>
+    </header>
+    <section class="content">
+        {{ .Content }}
+    </section>
+</article>
+
+{{ end }}

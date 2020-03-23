@@ -1,0 +1,221 @@
+/*------------------------------------*
+  Import Fonts
+*------------------------------------*/
+
+@import 'https://fonts.googleapis.com/css?family=Noto+Serif:300,400,500';
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,700';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 100%; /* 16px */
+  line-height: 1.5;
+  min-height: 100vh;
+  min-width: 300px;
+  overflow-x: hidden;
+}
+  
+body {
+  background-color: #cecece;
+  color: #414141;
+  font-family: 'Noto Serif', 'Georgia', serif;
+  font-weight: 400;
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 4em 1em;
+}
+
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+/* Typography */
+
+h1, h2, h3, h4, h5 {
+  color: #333;
+  font-family: 'Noto Serif', serif;
+  font-weight: 500;
+  line-height: 1.15;
+  margin: 2.75rem 0 1.05rem;
+  word-wrap: break-word;
+}
+
+h1 {
+  margin-top: 1em;
+  font-size: 3.052em;
+}
+
+h2 {font-size: 2.441em;}
+
+h3 {font-size: 1.953em;}
+
+h4 {font-size: 1.563em;}
+
+h5 {font-size: 1.25em;}
+
+p {margin-bottom: 1.15rem;}
+
+.small {
+  display: block;
+  font-size: 0.8em;
+  margin-top: 20px;
+  padding: 1em;
+  text-align: center;
+}
+
+.date-muted {
+  color: #808080;
+}
+
+a {
+  color: #e81c4f;
+}
+
+.index-header, .article-header {
+  font-weight: bold;
+}
+
+.post-title a{
+  text-decoration: none;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #333;
+  margin: 1em 0;
+  padding: 0;
+}
+
+ul {
+  margin-bottom: 1.05rem;
+}
+
+li {
+  line-height: 2;
+}
+
+/*------------------------------------*
+  Navigation - https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
+*------------------------------------*/
+.navbar {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.main-nav {
+    list-style-type: none;
+}
+
+.nav-links,
+.logo {
+    text-decoration: none;
+}
+
+.main-nav li {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.logo {
+    color: #333;
+    display: inline-block;
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+/*------------------------------------*
+   Pagination - https://github.com/nirocfz/arabica/blob/cd28e4071b3731be51d09650aa0645ed3f41afc9/static/assets/css/screen.css#L493
+*------------------------------------*/
+
+/* The main wrapper for pagination links */
+.pagination {
+  position: relative;
+  margin: 2rem auto;
+  font-size: .9rem;
+  color: #9EABB3;
+  text-align: center;
+}
+
+/* Push the previous/next links out to the left/right */
+.older-posts,
+.newer-posts {
+  position: absolute;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.older-posts {
+  right: 0;
+}
+
+.page-number {
+  display: inline-block;
+  padding: 2px 0;
+  min-width: 100px;
+}
+
+.newer-posts {
+  left: 0;
+}
+
+.older-posts:hover,
+.newer-posts:hover {
+  color: #FC7E0F;
+}
+
+.extra-pagination {
+  display: none;
+}
+
+.extra-pagination .pagination {
+  width: auto;
+}
+
+/* On page2+ show extra pagination controls at the top of post list */
+.paged .extra-pagination {
+  display: block;
+}
+
+@media screen and (min-width: 768px) {    
+    
+  .navbar {
+      display: flex;
+      justify-content: space-between;
+      padding-bottom: 0;
+      height: 70px;
+      align-items: center;
+  }    
+
+  .main-nav {
+      display: flex;
+      margin-right: 30px;
+      flex-direction: row;
+      justify-content: flex-end;
+  }    
+
+  .main-nav li {
+      margin: 0;
+  }    
+
+  .nav-links {
+      margin-left: 40px;
+  }    
+
+  .logo {
+      margin-top: 0;
+  }   
+
+  .navbar-toggle {
+    display: none;
+  }
+}
