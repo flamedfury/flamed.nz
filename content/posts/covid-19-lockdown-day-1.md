@@ -20,3 +20,4 @@ Sunday we did a grocery run for a friend who was unable to get to the supermarke
 This is a very interesting time to be alive. My intention is to write daily to keep a log of what happens over the next four weeks. 
 
 I think that writing will be a great way to help process these wild events.
+```
