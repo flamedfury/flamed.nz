@@ -3,6 +3,7 @@ title: 'fLaMEd''s Comic Book Pull List #3'
 date: 2019-12-27T08:28:56.200Z
 draft: true
 author: fLaMEd
+tags: ["comics"]
 ---
 ## Damn what a month
 What a way to wrap up 2019, not to mention the pocket money I had to save to clear the shelf!

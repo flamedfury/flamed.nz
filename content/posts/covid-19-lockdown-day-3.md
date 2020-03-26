@@ -2,9 +2,11 @@
 title: "Covid-19 Lockdown Day 3"
 date: 2020-03-25T17:39:21+13:00
 draft: false
+author: fLaMEd
+tags: ["covid-19"]
 ---
 
-New Zealand has entered Alert Level 4.
+**Alert Level**: Three
 
 ## Covid-19: State Of Emergency declared in New Zealand
 

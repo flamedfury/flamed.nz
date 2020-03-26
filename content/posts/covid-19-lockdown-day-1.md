@@ -2,7 +2,11 @@
 title: "Covid-19 Lockdown Day 1"
 date: 2020-03-23T19:37:16+13:00
 draft: false
+author: fLaMEd
+tags: ["covid-19"]
 ---
+
+**Alert Level**: Three
 
 So, New Zealand went into COVID-19 Alert Level 3. Within 48 hours the country will be shifting to Alert Level 4 with a nationwide lockdown.
 

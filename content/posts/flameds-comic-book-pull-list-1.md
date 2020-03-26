@@ -3,6 +3,7 @@ title: 'fLaMEd''s Comic Book Pull List #1'
 date: 2019-10-31T19:10:27.300Z
 draft: false
 author: fLaMEd
+tags: ["comics"]
 ---
 ## The Collection Begins
 

@@ -3,6 +3,7 @@ title: 'fLaMEd''s Comic Book Pull List #2'
 date: 2019-11-30T20:33:36.800Z
 draft: false
 author: fLaMEd
+tags: ["comics"]
 ---
 ## The Dawn of X
 

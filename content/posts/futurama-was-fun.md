@@ -2,15 +2,16 @@
 title: "Futurama Was Fun"
 date: 2000-01-21T21:25:39+13:00
 draft: false
+author: fLaMEd
 ---
 
-# Fry, we have a crate to deliver.
+## Fry, we have a crate to deliver.
 
 Why would I want to know that? Negative, bossy meat creature! We need rest. The spirit is willing, but the flesh is spongy and bruised. Tell them I hate them. Professor, make a woman out of me. You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus?
 
 So, how 'bout them Knicks? Michelle, I don't regret this, but I both rue and lament it. __Wow!__ *A superpowers drug you can just rub onto your skin?* You'd think it would be something you'd have to freebase.
 
-## Are you crazy? I can't swallow that.
+### Are you crazy? I can't swallow that.
 
 You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Is that a cooking show? Fry! Stay back! He's too powerful! Now Fry, it's been a few years since medical school, so remind me. Disemboweling in your species: fatal or non-fatal?
 

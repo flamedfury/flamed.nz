@@ -2,6 +2,7 @@
 title: A Thought On Littering
 date: 2020-02-03T07:29:41.100Z
 draft: false
+author: fLaMEd
 ---
 I was walking back to the office this morning and was waiting at the crossing to cross safely as I do.
 

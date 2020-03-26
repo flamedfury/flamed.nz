@@ -2,6 +2,7 @@
 title: Poodles In the Garden
 date: 2020-02-09T08:12:22.958Z
 draft: false
+author: fLaMEd
 ---
 I use the term garden loosely as it leaves a lot to be desired.
 

@@ -2,7 +2,11 @@
 title: "Covid-19 Lockdown Day 2"
 date: 2020-03-24T16:09:40+13:00
 draft: false
+author: fLaMEd
+tags: ["covid-19"]
 ---
+
+**Alert Level**: Three
 
 I'm exhausted! And it's only day 2. Hah.
 

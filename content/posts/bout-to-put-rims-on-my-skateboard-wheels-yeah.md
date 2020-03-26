@@ -2,6 +2,7 @@
 title: 'Bout to put rims on my skateboard wheels, yeah'
 date: 2020-03-04T04:56:34.400Z
 draft: false
+author: fLaMEd
 ---
 I was thinking about skateboarding today and these are the moves that I think are cool.
 
