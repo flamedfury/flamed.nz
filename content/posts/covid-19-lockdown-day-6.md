@@ -1,7 +1,7 @@
 ---
 title: "Covid 19 Lockdown Day 6"
 date: 2020-03-28T22:17:01+13:00
-draft: true
+draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Covid 19 Lockdown Day 5"
 date: 2020-03-27T22:08:30+13:00
-draft: true
+draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
