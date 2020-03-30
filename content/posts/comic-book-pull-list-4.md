@@ -1,5 +1,5 @@
 ---
-title: "Comic Book Pull List 4"
+title: "Comic Book Pull List January 2020"
 date: 2020-01-31T19:00:01+13:00
 draft: false
 author: fLaMEd
