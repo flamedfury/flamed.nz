@@ -1,5 +1,5 @@
 ---
-title: 'fLaMEd''s Comic Book Pull List #1'
+title: Comic Book Pull List October 2019'
 date: 2019-10-31T19:10:27.300Z
 draft: false
 author: fLaMEd

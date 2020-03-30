@@ -1,5 +1,5 @@
 ---
-title: 'fLaMEd''s Comic Book Pull List #2'
+title: Comic Book Pull List November 2019'
 date: 2019-11-30T20:33:36.800Z
 draft: false
 author: fLaMEd
@@ -18,7 +18,7 @@ Anyway, here's what I collected this month.
 ## fLaMEd's Comic Book Pull List #2 (November 2019)
 - New Mutants #1
 - X-Force #1
-- X-men #2
+- X-Men #2
 - Fallen Angels #1
 - Marauders #2
 - Excalibur #2
