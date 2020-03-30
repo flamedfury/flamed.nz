@@ -1,5 +1,5 @@
 ---
-title: Comic Book Pull List November 2019'
+title: "Comic Book Pull List November 2019"
 date: 2019-11-30T20:33:36.800Z
 draft: false
 author: fLaMEd

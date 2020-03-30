@@ -1,5 +1,5 @@
 ---
-title: Poodles In the Garden
+title: "Poodles In the Garden"
 date: 2020-02-09T08:12:22.958Z
 draft: false
 author: fLaMEd

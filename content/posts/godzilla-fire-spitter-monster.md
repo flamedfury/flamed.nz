@@ -1,5 +1,5 @@
 ---
-title: Godzilla fire spitter monster
+title: "Godzilla fire spitter monster"
 date: 2020-03-01T05:16:51.900Z
 draft: false
 author: fLaMEd

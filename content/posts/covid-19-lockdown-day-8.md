@@ -1,5 +1,5 @@
 ---
-title: "Covid 19 Lockdown Day 8"
+title: "Covid-19 Lockdown Day 8"
 date: 2020-03-30T20:36:56+13:00
 draft: false
 author: fLaMEd
