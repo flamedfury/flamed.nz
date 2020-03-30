@@ -6,6 +6,8 @@ author: fLaMEd
 tags: ["covid-19"]
 ---
 
+**Alert Level**: Four
+
 Right, so today was nicer than it was all weekend in that the sun was out. We got up just after 5:30 am this morning to get a headstart of every one else in walking the dogs with the streets to ourselves. 
 
 Much less stressful than over the weekend.
