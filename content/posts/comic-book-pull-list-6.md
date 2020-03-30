@@ -1,7 +1,7 @@
 ---
 title: "Comic Book Pull List March 2020"
 date: 2020-03-30T17:57:11+13:00
-draft: true
+draft: false
 author: fLaMEd
 tags: ["comics"]
 ---

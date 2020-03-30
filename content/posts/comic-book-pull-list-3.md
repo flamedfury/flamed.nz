@@ -1,7 +1,7 @@
 ---
 title: Comic Book Pull List December 2019'
 date: 2019-12-27T08:28:56.200Z
-draft: true
+draft: false
 author: fLaMEd
 tags: ["comics"]
 ---

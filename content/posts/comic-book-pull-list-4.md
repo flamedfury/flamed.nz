@@ -1,7 +1,7 @@
 ---
 title: "Comic Book Pull List 4"
 date: 2020-01-31T19:00:01+13:00
-draft: true
+draft: false
 author: fLaMEd
 tags: ["comics"]
 ---
