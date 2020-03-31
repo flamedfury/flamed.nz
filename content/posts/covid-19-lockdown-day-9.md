@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 Lockdown Day 9"
 date: 2020-03-31T21:57:28+13:00
-draft: true
+draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
