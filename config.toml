@@ -32,6 +32,7 @@ paginate = 100
 [params]
   dateFormat = "January 2, 2006"
   homeText = "fLaMEd's home on the Internet."
+  Email = "xaybrdgk"
 
 [taxonomies]
   tag = "tags"

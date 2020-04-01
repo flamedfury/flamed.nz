@@ -40,7 +40,7 @@ video {
 
 h1, h2, h3, h4, h5 {
   color: #333;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Noto Serif', 'Georgia', serif;
   font-weight: 500;
   line-height: 1.15;
   margin: 2.75rem 0 1.05rem;
@@ -184,6 +184,34 @@ li {
 /* On page2+ show extra pagination controls at the top of post list */
 .paged .extra-pagination {
   display: block;
+}
+
+/*------------------------------------*
+   Formspree - https://github.com/IvanChou/hugo-theme-vec/commit/a738d428abba742e490ba33137f74ccff8f9ccf4
+*------------------------------------*/
+.formspree input, textarea{
+
+  border: 2px solid #333;
+  border-radius: 3px;
+  background: #cecece;
+  display: block;
+  font-family: 'Noto Serif', 'Georgia', serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: 1.2rem 1rem 1.2rem 0;
+  padding: 1rem 2%;
+  width: 100%;
+}
+
+button {
+  border-radius: 3px;
+  border: 2px solid #e81c4f;
+  background: #cecece;
+  color: #e81c4f;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: .8rem;
+  padding: 0.5rem 1.2rem;
 }
 
 @media screen and (min-width: 768px) {    
