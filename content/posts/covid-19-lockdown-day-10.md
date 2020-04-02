@@ -7,6 +7,7 @@ tags: ["covid-19"]
 ---
 
 **Alert Level**: Four
+**Day**: 10
 
 Sun was out today, hung washing on the line. It wasn't warm enough so had to finish off in the dryer. Disappointing. 
 
