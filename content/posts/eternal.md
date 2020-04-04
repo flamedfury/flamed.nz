@@ -1,5 +1,5 @@
 ---
-title: "Ride Ready to Pap Pap in Broad Daylight"
+title: "Eternal"
 date: 2020-04-03T18:59:26+13:00
 draft: false
 author: fLaMEd
