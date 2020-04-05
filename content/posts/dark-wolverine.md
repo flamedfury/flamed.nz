@@ -3,7 +3,7 @@ title: "Dark Wolverine"
 date: 2020-04-05T20:09:51+12:00
 draft: false
 author: fLaMEd
-tags: ["covid-19"]
+tags: ["covid-19", "comics"]
 ---
 
 **Alert Level**: Four
