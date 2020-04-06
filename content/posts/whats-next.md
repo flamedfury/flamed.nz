@@ -1,7 +1,7 @@
 ---
 title: "What's Next?"
 date: 2020-04-06T19:27:25+12:00
-draft: true
+draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
