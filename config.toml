@@ -2,7 +2,7 @@ baseURL = "https://flamed.nz/"
 languageCode = "en-us"
 title = "fLaMEd.nz"
 theme = "flamed"
-paginate = 100
+paginate = 50
 
 [permalinks]
   posts = "/:filename/"

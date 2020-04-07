@@ -3,6 +3,7 @@ title: "Futurama Was Fun"
 date: 2000-01-21T21:25:39+13:00
 draft: false
 author: fLaMEd
+tags: ["futurama"]
 ---
 
 ## Fry, we have a crate to deliver.

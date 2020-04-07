@@ -10,7 +10,7 @@
         </article>
 
         <!-- post list -->
-        {{ range $index, $page := (.Paginate (where (where .Site.RegularPages "Type" "in" site.Params.mainSections) ".Params.hidden" "!=" "true" )).Pages }}
+        {{ range (.Paginate (where .Site.RegularPages "Section" "==" "posts")).Pages }}
         <article>
             <header>
                 <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
