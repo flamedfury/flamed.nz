@@ -13,7 +13,7 @@ tags: ["covid-19"]
 I'm not so much in the mood for writing tonight. I have a lot of thoughts and ideas running around my head for what I want to work on over the Easter break to enhance my website.
 
 #### Things I want to do to the website this weekend:
-* Write the [link="80f9c2af-2cd8-4517-90f1-d4669bb3af52"].
+* Write the [about page](/about/).
 * Construct the archive page.
 * Consolidate all the posts from my previous websites on the archive page.
 
