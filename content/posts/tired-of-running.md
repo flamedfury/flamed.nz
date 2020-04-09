@@ -12,10 +12,12 @@ tags: ["covid-19"]
 
 I'm not so much in the mood for writing tonight. I have a lot of thoughts and ideas running around my head for what I want to work on over the Easter break to enhance my website.
 
-#### Things I want to do to the website this weekend:
-* Write the [about page](/about/).
-* Construct the archive page.
-* Consolidate all the posts from my previous websites on the archive page.
+#### ~~Things I want to do to the website this weekend:~~
+* ~~Write the [about page](/about/).~~
+* ~~Construct the archive page.~~
+* ~~Consolidate all the posts from my previous websites on the archive page.~~
+
+**Update 10/04/20**: [See the actual list here](/i-cant-wait-for-the-weekend-to-begin/).
 
 I've managed to find lots of early scraps of myself online using the [Wayback Machine](https://web.archive.org/) and I want to preserve them here.
 
