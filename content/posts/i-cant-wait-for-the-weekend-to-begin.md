@@ -34,13 +34,18 @@ Haha! Sweet, but what about bullet lists? What else are you going to implement o
 
 #### Weblog Improvement List
 * Archive page
+* Write the [about page](/about/).
+* Consolidate all the posts from my previous websites on the archive page.
+* Self host fonts (remove Google APIs)
+* Figure out image inclusion for posts...
 
-Oh shit, that's not a lot. What other projects do you have for the weekend?
+
+What other projects do you have for the weekend?
 
 #### Other Web Projects
 * Clean up BBQ page and convert to static
 * New landing page for flamedfury.com
-* Get old versions of flamedfury.com
+* Get old versions of flamedfury.com displayed
 
 But what about chill time? Are you going to take any time for yourself? Of course...
 
@@ -50,6 +55,7 @@ But what about chill time? Are you going to take any time for yourself? Of cours
 * Finish Mr Robot S4
 * Finish [Dark Wolverine](https://www.marvel.com/comics/series/7707/dark_wolverine_2009_-_2010) comic run
 * Start reading [A Dark Heart Rises, by Russell Meek](https://www.thekhaladastone.com/)
+* Play Cities: Skylines
 
 But right now, I gotta go watch [Dave](https://www.imdb.com/title/tt8531222/)
 
