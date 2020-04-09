@@ -5,6 +5,10 @@
 @import 'https://fonts.googleapis.com/css?family=Noto+Serif:300,400,500';
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,700';
 
+/*------------------------------------*
+  Main
+*------------------------------------*/
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -32,9 +36,17 @@ body {
 
 img,
 video {
+  display: block;
   height: auto;
   max-width: 100%;
 }
+
+blockquote {
+  border-left: 3px solid #e81c4f;
+  font: 22px normal;
+  margin: 40px;
+  padding: 10px 20px;
+} 
 
 /* Typography */
 
@@ -90,18 +102,22 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #333;
+  border-top: 1px solid #e81c4f;
   margin: 1em 0;
   padding: 0;
 }
 
-ul {
+ul, ol {
+  list-style-position: inside;
   margin-bottom: 1.05rem;
+  margin-left: 40px;
+  padding: 0;
 }
 
 li {
-  line-height: 2;
+  line-height: 2; 
 }
+
 
 /*------------------------------------*
   Navigation - https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
