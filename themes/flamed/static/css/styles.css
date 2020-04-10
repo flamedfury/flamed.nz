@@ -112,7 +112,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #e81c4f;
+  border-top: 3px solid #e81c4f;
   margin: 1em 0;
   padding: 0;
 }
@@ -128,6 +128,9 @@ li {
   line-height: 2; 
 }
 
+.post-list {
+  list-style: none;
+}
 
 /*------------------------------------*
   Navigation - https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf

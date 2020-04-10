@@ -1,0 +1,16 @@
+    {{ define "main" }}
+
+    <h1 class="article-header">{{ .Title }}</h1>
+    {{ .Content }}
+
+    {{ range .Data.Pages.GroupByDate "2006" }}
+    <h2>{{ .Key }}</h2>
+        <ul class="post-list">
+            {{ range .Pages }}
+                
+                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> on {{ partial "date-and-tags.html" . }}</li>
+                
+            {{ end }}
+        </ul>
+    {{ end }}
+    {{ end }}
