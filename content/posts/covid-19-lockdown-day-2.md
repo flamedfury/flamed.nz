@@ -1,47 +1,26 @@
 ---
-title: "Covid-19 Lockdown Day 2"
-date: 2020-03-24T16:09:40+13:00
+title: "Covid 19 Lockdown Day 2"
+date: 2020-03-27T22:08:30+13:00
 draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
 
-**Alert Level**: Three
+**Alert Level**: Four
+**Day**: 2
 
-I'm exhausted! And it's only day 2. Hah.
+It's raining. Only managed 2 dog walks today. The first one was quite stressful as we had a number of non dog walkers walking around like it ain't nothing and not making way while the dogs were barking at other dogs walking the other way while we were walking.
 
-Thankfully my wife is now also able to work from home as well, I helped set up her work from home space last night. We're lucky that we have a fairly large house and can have separate work from home spaces. It's been fun meeting in the kitchen to make coffee and tea and catch up throughout the day.
+Doesn't help calm the mind...
 
-We also have a friend who was supposed to be staying for the weekend then heading off for a journey overseas. As things rapidly unfolded those plans went straight out the window. Again, we're lucky that we have a fairly large house and have the space for her to live with us through these bizarre times.
+People can be dicks.
 
-With work, we've been focusing on getting our people setup working remotely. Putting our people first has been a good feeling. Making them know that they're our priority and shipping code is the secondary is going down well. There's plenty of time for the later.
+Spent the night with the wife and the flatmate listening to top tunes through the ages, backwards. This was nice. I enjoyed it.
 
-The big challenge is making sure that I'm not putting in too many hours myself, it's an easy trap to fall into... When I first thought of the idea of lockdown I imagined that I'd end up with hours of free time to read books, catch up on TV shows, watch a few movies and read heaps of blogs!
+I enjoy the simple things in love. I love music...
 
-Reality looks more like this...
+It's raining. Heavy. Will we be able to hang washing out in the morning?
 
-#### Lockdown Routine
-- Wake up
-- Walk dogs
-- Feed dogs
-- Feed me
-- Shower
-- Meditate
-- Coffee 
-- Check into work
-- Coffee
-- Morning calls / tasks
-- Walk Dogs
-- Eat
-- Afternoon calls tasks
-- Walk dogs
-- Feed dogs
-- Workout
-- Blog
-- Bed
+I'm glad the week of work is over. It was a mentaly physical overload.
 
-Not too bad, but doesn't leave much time for activities! I'm sure that once we get into the swing of working remotely the balance will be set and I'll get that time for myself and my family. 
-
-The weekend will be interesting. Not needing to rush off to the markets and then the gym for a spin class will leave a number of hours available for tasks that have always been pushed to the bottom of the to do list. Weeding, clearing, deep cleaning. 
-
-Time will tell. I hope that you're all staying safe, be kind and don't be stupid.
+Stay safe, stay clean, be kind and don't be stupid.

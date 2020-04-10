@@ -8,7 +8,7 @@ tags: ["covid-19"]
 
 **Alert Level**: Four
 
-**Day**: 11
+**Day**: 8
 
 Changing up the post titles so that the page is not a stream of Covid-19, lol.
 

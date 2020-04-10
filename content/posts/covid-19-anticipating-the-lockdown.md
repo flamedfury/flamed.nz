@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 Lockdown Day 1"
+title: "Covid-19 Anticipating the Lockdown"
 date: 2020-03-23T19:37:16+13:00
 draft: false
 author: fLaMEd

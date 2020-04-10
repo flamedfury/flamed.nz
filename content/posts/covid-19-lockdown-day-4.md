@@ -1,31 +1,20 @@
 ---
-title: "Covid 19 Lockdown Day 4"
-date: 2020-03-26T19:08:52+13:00
+title: "Covid-19 Lockdown Day 4"
+date: 2020-03-29T22:03:43+13:00
 draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
 
 **Alert Level**: Four
+**Day**: 4
 
-New Zealand has entered Alert Level 4 at 11:59pm 25/03/2020. So I suppose this is technically day 1 of the full lockdown.
+Continued to rain over night, the dogs didn't want anything to do with anything that meant that they had to go outside.
 
-I'm absolutely smashed after a mentally exhausting day at work.
+The sun came out after 2pm so we took the opportunity to walk them, along with every other family who has a dog in the neighbourhood... I have a hard time understanding where these dogs were during the non quarantine days, did they not just get walked at all? I would have thought that after 10 years of walking dogs around the neighbourhood at all times of the day I'd have a good idea of what dogs were around.
 
-Is it still considered being at work?
+I spent the morning stretching and working out, a cooked breakfast and then I got stuck into playing [Cities: Skylines](https://www.citiesskylines.com/) on [Steam](https://store.steampowered.com/app/255710/Cities_Skylines/). Have just managed to get myself off so I can get some sleep before another week of working remote begins. What a fun game!
 
-I'm hoping that it will slow down a bit once everyone gets used to the new situation. 
+I'm hoping to take it a bit easier this week. Everyone should be settled in by now. I'll let you know how it goes tomorrow.
 
-We walked the dogs three times today, managed to avoid the usual drama with other dogs passing by which was nice as it makes the walks so much more enjoyable.
-
-I did another garage work out this evening. Les Mills Virtual Body Pump, release 104, the 45 minute version. I'm actually really enjoying these sessions. My goal by the end of this, whenever that is, is to complete the workout without missing a rep. Stretch goal, increase the weights. Sounds achievable. I still wish I had a spin bike.
-
-Thursday is new comic book day in New Zealand but with the local closed I will not be clearing my shelf tomorrow. I'll just have to trust that what I do have on order will be there later. I did manage to secure a few issues that I don't have on my current list from another store, shipping most likely won't happen until we decrease from 
-
-I'll write up a new pull list post to list what I managed to get this week and then the other issues that I have on order.
-
-The other thing that we've been enjoying during our dog walks is spotting all the [teddy bears that are popping up in windows](https://www.rnz.co.nz/news/national/412602/teddy-bears-in-windows-to-cheer-up-kids-during-lockdown) across the suburb. A nice activity for both the kids and adults. We've joined in on the fun as well. I'm pretty good at spotting them.
-
-I'm going to go help prepare dinner and then might see if I can catch a movie!
-
-Stay safe, stay clean, be kind and don't be stupid.
+Stay safe, stay clean, be kind, stay dry.

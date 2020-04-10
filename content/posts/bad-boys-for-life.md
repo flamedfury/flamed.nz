@@ -8,7 +8,7 @@ tags: ["covid-19"]
 
 **Alert Level**: Four
 
-**Day**: 13
+**Day**: 10
 
 Even in lockdown, the weekends seem to go quicker than ever. Clocks go back an hour tomorrow so there is that bonus. I will be getting up early to get the smoker started before walking the dogs.
 

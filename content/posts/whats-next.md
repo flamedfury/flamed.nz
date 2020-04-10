@@ -8,7 +8,7 @@ tags: ["covid-19"]
 
 **Alert Level**: Four
 
-**Day**: 15
+**Day**: 12
 
 While I've been isolating for 19 days now, the country has been in the [Alert Four lockdown](https://covid19.govt.nz/government-actions/current-covid-19-alert-level/) for 12 days but it looks like that we're being advised not to set ourselves high expectations that we'll be [coming out of this after the original four weeks](https://www.msn.com/en-nz/news/national/scientist-advising-pm-warns-kiwis-lockdown-likely-to-last-longer-than-4-weeks/ar-BB11MwqO).
 

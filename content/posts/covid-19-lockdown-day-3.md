@@ -1,29 +1,16 @@
 ---
-title: "Covid-19 Lockdown Day 3"
-date: 2020-03-25T17:39:21+13:00
+title: "Covid 19 Lockdown Day 3"
+date: 2020-03-28T22:17:01+13:00
 draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
 
-**Alert Level**: Three
+**Alert Level**: Four
+**Day**: 3
 
-## Covid-19: State Of Emergency declared in New Zealand
+It has continued to rain. I enjoyed not having to do much and spent some much needed time on the couch watching television shows.
 
-[New Zealand is now in a State of National Emergency, after 50 new cases of the Covid-19 coronavirus were confirmed today, brining the total to 205](https://www.rnz.co.nz/news/national/412561/covid-19-state-of-emergency-declared-in-new-zealand)
+Now I look forward to a good nights sleep.
 
-_At 12:21pm the country has entered a state of emergency, as advised by Prime Minsiter Jacinda Ardern_
-
-This bizarre global situation continues to unfold every day. 
-
-Today started like the last two days, slightly later as I took an opportunity to sleep in for 40 minutes before the dogs started whinging to get going.
-
-Spent half the day on video calls for work, and the other half hammering away at a document. 
-
-Knocked off to take the dogs out for another walk and rather than workout this afternoon I mowed what is left of the lawns as the council is going to continue collecting green waste along with general waste. The funny thing is, they will not be collecting recycling so I can only imagine the number of empty beer cans and wine bottles that are going to pile up. Should be good if we continue the habit of rinsing them out before bagging them up. I wonder if the recycling stations at the bottom of the hill will remain available. 
-
-Tonight I'm looking forward to some me time. Going to watch a movie with our wonderful flatmate and cook up the last of our fresh pasta. 
-
-Will assess the food/shopping situation tomorrow.
-
-Stay safe, stay clean, be kind and don't be stupid.
+Stay safe, stay clean, be kind, stay dry.

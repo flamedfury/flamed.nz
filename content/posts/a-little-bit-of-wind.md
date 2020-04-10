@@ -8,7 +8,7 @@ tags: ["covid-19"]
 
 **Alert Level**: Four
 
-**Day**: 17
+**Day**: 14
 
 Yesterday the weather turned a bit grey and windy. Up here it gets quite windy. It was noticeable with this change the lack of many families with dogs walking. 
 

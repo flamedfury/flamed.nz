@@ -8,7 +8,7 @@ tags: ["covid-19"]
 
 **Alert Level**: Four
 
-**Day**: 18
+**Day**: 15
 
 Yo, it's the last day of work for the week and we're in for a 4 day weekend.
 
@@ -33,10 +33,10 @@ Show us an image!
 Haha! Sweet, but what about bullet lists? What else are you going to implement over the long weekend?
 
 #### Weblog Improvement List
-* Archive page
+* ~~Archive page~~
 * Write the [about page](/about/).
-* Consolidate all the posts from my previous websites on the archive page.
-* Self host fonts (remove Google APIs)
+* ~~Consolidate all the posts from my previous websites on the archive page.~~
+* ~~Self host fonts (remove Google APIs)~~
 * Figure out image inclusion for posts...
 
 

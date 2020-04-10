@@ -8,7 +8,7 @@ tags: ["covid-19"]
 
 **Alert Level**: Four
 
-**Day**: 12
+**Day**: 9
 
 Thank heck it's Friday. I'm settling in for the evening with a couple cans of [Behemoth Brewing](https://behemoth-brewing.myshopify.com/discount/BEH25G22PEC?redirect=%2Fcollections%2Fall) thank heck that they're classified as an essential service otherwise I'd be severly out of sorts.
 

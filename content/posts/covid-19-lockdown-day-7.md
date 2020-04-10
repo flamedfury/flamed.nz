@@ -1,19 +1,22 @@
 ---
 title: "Covid-19 Lockdown Day 7"
-date: 2020-03-29T22:03:43+13:00
+date: 2020-04-01T21:22:20+13:00
 draft: false
 author: fLaMEd
 tags: ["covid-19"]
 ---
 
 **Alert Level**: Four
+**Day**: 7
 
-Continued to rain over night, the dogs didn't want anything to do with anything that meant that they had to go outside.
+Sun was out today, hung washing on the line. It wasn't warm enough so had to finish off in the dryer. Disappointing. 
 
-The sun came out after 2pm so we took the opportunity to walk them, along with every other family who has a dog in the neighbourhood... I have a hard time understanding where these dogs were during the non quarantine days, did they not just get walked at all? I would have thought that after 10 years of walking dogs around the neighbourhood at all times of the day I'd have a good idea of what dogs were around.
+In other news, comics to be specific, Marvel Comics will not be releasing any new comics, physically or digitally this week and in the future. Diamond Comic Distributors who have the monopoly on the distribution of single-issue comics to local comic book stores across the world has suspended distribution. In response Marvel will not be releasing new titles, even digitally. Which doesn't make sense to me as it seems like the perfect opportunity for digital to shine?
 
-I spent the morning stretching and working out, a cooked breakfast and then I got stuck into playing [Cities: Skylines](https://www.citiesskylines.com/) on [Steam](https://store.steampowered.com/app/255710/Cities_Skylines/). Have just managed to get myself off so I can get some sleep before another week of working remote begins. What a fun game!
+Oh well, I guess they know what they're doing. So many unfinished stories though.
 
-I'm hoping to take it a bit easier this week. Everyone should be settled in by now. I'll let you know how it goes tomorrow.
+This is just one of the minor effects across the world thanks to Covid-19.
 
-Stay safe, stay clean, be kind, stay dry.
+I've added a [contact form to the contact page](https://flamed.nz/contact/) if you feel the need to get in touch.
+
+Stay safe, stay strong.
