@@ -133,36 +133,6 @@ li {
 }
 
 /*------------------------------------*
-  Navigation - https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
-*------------------------------------*/
-.navbar {
-    font-size: 16px;
-    padding-bottom: 10px;
-}
-
-.main-nav {
-    list-style-type: none;
-}
-
-.nav-links,
-.logo {
-    text-decoration: none;
-}
-
-.main-nav li {
-    text-align: center;
-    margin: 15px auto;
-}
-
-.logo {
-    color: #333;
-    display: inline-block;
-    font-size: 2rem;
-    margin-top: 10px;
-    margin-left: 0px;
-}
-
-/*------------------------------------*
    Pagination - https://github.com/nirocfz/arabica/blob/cd28e4071b3731be51d09650aa0645ed3f41afc9/static/assets/css/screen.css#L493
 *------------------------------------*/
 
@@ -243,21 +213,77 @@ button {
   padding: 0.5rem 1.2rem;
 }
 
+/*------------------------------------*
+  Navigation
+  - https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
+  - https://codepen.io/nimrodco/pen/GPwzdQ?editors=1100 
+*------------------------------------*/
+
+.navbar {
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+.main-nav {
+  list-style-type: none;
+  display: none;
+}
+
+.nav-links,
+.logo {
+  text-decoration: none;
+}
+
+.main-nav li {
+  text-align: center;
+  margin: 15px auto;
+}
+
+.logo {
+  color: #333;
+  display: inline-block;
+  font-size: 2rem;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.navbar-toggle {
+  color: #e81c4f;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 2rem;
+  position: absolute;
+}
+
+#chkToggle {
+  display: none;
+}
+
+#chkToggle:checked + ul.main-nav {
+  display: block;
+}
+
 @media screen and (min-width: 768px) {    
     
   .navbar {
-      display: flex;
-      justify-content: space-between;
-      padding-bottom: 0;
-      height: 70px;
-      align-items: center;
-  }    
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0;
+    height: 70px;
+    align-items: center;
+  }
 
+  #chkToggle:checked + ul.main-nav {
+    display: flex;
+  }
+  
   .main-nav {
-      display: flex;
-      margin-right: 30px;
-      flex-direction: row;
-      justify-content: flex-end;
+    display: flex;
+    margin-right: 30px;
+    flex-direction: row;
+    justify-content: flex-end;
   }    
 
   .main-nav li {

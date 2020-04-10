@@ -2,6 +2,11 @@
             <nav class="navbar">
                 <!-- site logo / title -->
                 <span class="logo">{{ .Site.Title }}</span>
+                <!-- menu toggle -->
+                <label class="navbar-toggle" for="chkToggle">
+                    &#9776;
+                </label>
+                <input type="checkbox" id="chkToggle"></input>
                 <!-- navigation -->
                 <ul class="main-nav">
                 {{ range .Site.Menus.main }}
