@@ -8,10 +8,10 @@
                <p>{{ .Site.Params.homeText | markdownify }}</p>
         </section>
 
-        <section>
+
             <!-- post list -->
             {{ range (.Paginate (where .Site.RegularPages "Section" "==" "posts")).Pages }}
-
+        <section>
             <article>
 
                     <header>
