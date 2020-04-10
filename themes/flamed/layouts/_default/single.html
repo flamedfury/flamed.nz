@@ -1,14 +1,15 @@
         {{ define "main" }} 
 
         <!-- main content -->
+        <section class="content">
             <header>
                 <h1 class="article-header">{{ .Title }}</h1>
             </header>
-            <section class="content">
+            
                 {{ .Content }}
 
                 {{ if .Params.formspree }}{{ partial "formspree.html" . }}{{ end }}
 
-            </section>
+        </section>
 
         {{ end }}
