@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 Lockdown It's Happening"
+title: "Covid-19: State Of Emergency declared in New Zealand"
 date: 2020-03-25T17:39:21+13:00
 draft: false
 author: fLaMEd
@@ -7,8 +7,6 @@ tags: ["covid-19"]
 ---
 
 **Alert Level**: Three
-
-## Covid-19: State Of Emergency declared in New Zealand
 
 [New Zealand is now in a State of National Emergency, after 50 new cases of the Covid-19 coronavirus were confirmed today, brining the total to 205](https://www.rnz.co.nz/news/national/412561/covid-19-state-of-emergency-declared-in-new-zealand)
 
