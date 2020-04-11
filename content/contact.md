@@ -1,6 +1,6 @@
 ---
 title: "Contact Me"
-contact: true
+formspree: true
 ---
 
 Hey, you can contact me here
