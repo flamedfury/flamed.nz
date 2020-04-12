@@ -84,6 +84,20 @@ h5 {font-size: 1.25em;}
 
 p {margin-bottom: 1.15rem;}
 
+figure {
+  display: table;
+  max-width: 100%;
+}
+
+figure figcaption h4 {
+  color: #9EABB3;
+  font-size: 0.8em;
+  margin-top: 20px;
+  padding: 1em;
+  position: relative;
+  text-align: center;
+}
+
 .small {
   display: block;
   font-size: 0.8em;
