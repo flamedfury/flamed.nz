@@ -186,9 +186,9 @@ li {
 }
 
 /*------------------------------------*
-   Formspree - https://github.com/IvanChou/hugo-theme-vec/commit/a738d428abba742e490ba33137f74ccff8f9ccf4
+   Netlify Contact Form
 *------------------------------------*/
-.formspree input, textarea{
+.contact-form input, textarea{
 
   border: 2px solid #333;
   border-radius: 3px;
