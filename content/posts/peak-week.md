@@ -13,7 +13,7 @@ Not much tonight. Easter holiday road death toll is officially zero!
 
 Covid though, up to 9. Condolances to those affected. More cases on the rise. 
 
-{{< figure src="img/eight_col_covid_daily_1920x1080_14april_.png" title="Photo: RNZ" >}}
+{{< figure src="/img/eight_col_covid_daily_1920x1080_14april_.png" title="Photo: RNZ" >}}
 
 Government starting to think about what post alert level four looks like.
 
