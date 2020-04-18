@@ -9,7 +9,7 @@ tags: ["covid-19"]
 **Alert Level**: Four
 **Day**: 23
 
-Listend to the album a few times now. [George Bondo is my favourite track](https://open.spotify.com/track/44NwjH8iMskEqgvpkbDfzT?si=dBBcNmtwSlSaXZKEQeRnmQ). A Griselda posse cut will always sit well with me.
+Listend to the album a few times now. [George Bondo is my favourite track](https://open.spotify.com/track/44NwjH8iMskEqgvpkbDfzT?si=dBBcNmtwSlSaXZKEQeRnmQ). Can't go past a Griselda posse cut.
 
 Not much happening Covid-19 wise. A few more confirmed cases, no new deaths. Had an issue free supermarket visit this morning, was too early for cooked chickens though.
 
