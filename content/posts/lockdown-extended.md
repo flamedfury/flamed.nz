@@ -14,7 +14,7 @@ I'm happy to see that certain businesses will be able to start preparing to oper
 
 While I've come to terms with the lockdown and working remotely I'm not sure how prepared mentally I am at the thought of eventually commuting to work again. As much as I like catching the train. Being surrounded by a  bunch of people who probably don't want to be surrounded by a bunch of people either isn't very appealing to me right now.
 
-Having the freedom to step away from the work computer to put on a load of laundry or empty the dishwasher has been great. Being able to spend more time with the :poodle:'s has been even better. 
+Having the freedom to step away from the work computer to put on a load of laundry or empty the dishwasher has been great. Having more time with my wife is awesome and being able to spend more time with the :poodle:'s has been great!
 
 I'm excited at the thought of some restaurants and take out joints re-opening. I do miss the option of choosing not to cook at night. I do enjoy cooking, and being able to cook lunch fresh has been amazing. 
 
