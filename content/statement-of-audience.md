@@ -18,4 +18,4 @@ and obviously mistaken opinions on whatever it is that I have written about.
 
 Signed: [fLaMEd](/about/)
 
-Based on the essay [Why I Fucking Hate Weblogs!](http://mama.indstate.edu/users/bones/WhyIHateWebLogs.html) by Donald Brook.
+Based on the essay [Why I Fucking Hate Weblogs!](http://mama.indstate.edu/users/bones/WhyIHateWebLogs.html) [(archive)](https://web.archive.org/web/20200217165616/http://mama.indstate.edu/users/bones/WhyIHateWebLogs.html#conc) by Donald Brook.

@@ -3,6 +3,7 @@ title: "Just Finished Ozark"
 date: 2020-05-12T20:32:18+12:00
 draft: false
 author: fLaMEd
+tags: ["tv"]
 ---
 
 **Alert Level**: Three
