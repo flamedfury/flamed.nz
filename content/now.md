@@ -27,4 +27,3 @@ Rather than reading [about](/about/) my past or [contacting](/contact/) me, take
 * Archive [flamedfury.com](https://flamedfury.com)
 
 This is my now page. Inspired by [nownownow.com](https://nownownow.com/about). 
- 
