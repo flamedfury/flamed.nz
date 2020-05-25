@@ -8,6 +8,8 @@ Rather than reading [about](/about/) my past or [contacting](/contact/) me, take
 
 ## May 2020
 
+26/05/2020 - Added Cyberdeck Users Weekly to Podcasts.
+
 #### Reading
 * [Hustle Harder, Hustle Smarter](https://isbndb.com/book/9780062953803 "Hustle Harder, Hustle Smarter") - Curtis "50 Cent" Jackson  
 * [Dawn of X](https://en.wikipedia.org/wiki/Dawn_of_X "Dawn of X") - Marvel Comics
@@ -15,6 +17,7 @@ Rather than reading [about](/about/) my past or [contacting](/contact/) me, take
 #### Podcasts
 * [Darknet Diaries](https://darknetdiaries.com/ "Darknet Diaries")  
 * [The Joe Budden Podcast](https://joebuddenpod.com/ "The Joe Budden Podcast")
+* [Cyberdeck Users Weekly](https://paul.lol/pod "Cyberdeck Users Weekly")
 
 #### Music
 * [No One Mourns The Wicked](https://bigghostlimited.bandcamp.com/album/no-one-mourns-the-wicked "No One Mourns The Wicked")
