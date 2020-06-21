@@ -8,8 +8,8 @@ Rather than reading [about](/about/) my past or [contacting](/contact/) me, take
 
 ## June 2020
 
-21/06/2020 - Finished [Hustle Harder, Hustle Smarter](/hustle-harder-hustle-smarter/). Started reading How to Lead in Product Management.
-06/06/2020 - Not much has changed. Need to sit down and dedicate some time!
+* 21/06/2020 - Finished [Hustle Harder, Hustle Smarter](/hustle-harder-hustle-smarter/). Started reading How to Lead in Product Management.
+* 06/06/2020 - Not much has changed. Need to sit down and dedicate some time!
 
 #### Reading
 * [How to Lead in Product Management](https://www.romanpichler.com/romans-books/how-to-lead-in-product-management/ "How to Lead in Product Management") - Roman Pilcher
@@ -28,7 +28,7 @@ Rather than reading [about](/about/) my past or [contacting](/contact/) me, take
 * [Affinity Design](https://affinity.serif.com/en-gb/designer/)
 
 #### Website To-Do:
-* Write [about page](/about/)
+* ~~Write [about page](/about/)~~
 * Archive [flamedfury.com](https://flamedfury.com)
 
 ## May 2020
