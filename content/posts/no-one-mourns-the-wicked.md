@@ -3,7 +3,7 @@ title: "No One Mourns the Wicked"
 date: 2020-05-16T12:17:23+12:00
 draft: false
 author: fLaMEd
-tags: ["muisic"]
+tags: ["music"]
 ---
 
 {{< figure src="/img/no-one-mourns-the-wicked/no-one-mourns-the-wicked.jpg" title="No One Mourns The Wicked - BigGhostLimited/Bandcamp" width="760px" >}}
