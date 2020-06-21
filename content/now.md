@@ -8,10 +8,12 @@ Rather than reading [about](/about/) my past or [contacting](/contact/) me, take
 
 ## June 2020
 
+21/06/2020 - Finished [Hustle Harder, Hustle Smarter](/hustle-harder-hustle-smarter/). Started reading How to Lead in Product Management.
 06/06/2020 - Not much has changed. Need to sit down and dedicate some time!
 
 #### Reading
-* [Hustle Harder, Hustle Smarter](https://isbndb.com/book/9780062953803 "Hustle Harder, Hustle Smarter") - Curtis "50 Cent" Jackson  
+* [How to Lead in Product Management](https://www.romanpichler.com/romans-books/how-to-lead-in-product-management/ "How to Lead in Product Management") - Roman Pilcher
+* ~~[Hustle Harder, Hustle Smarter](https://isbndb.com/book/9780062953803 "Hustle Harder, Hustle Smarter") - Curtis "50 Cent" Jackson~~  
 * [Dawn of X](https://en.wikipedia.org/wiki/Dawn_of_X "Dawn of X") - Marvel Comics
 
 #### Podcasts

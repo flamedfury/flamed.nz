@@ -6,7 +6,7 @@ Hey, I’m fLaMEd :wave:, I have been a citizen of the Internet since 1996. I lo
 
 I have a huge dislike for the current commercialisation and walled garden silo approach of the modern Internet. 
 
-- [Read about why I have a website](../about-this-website/). 
+- [Read about why I have a website](../why-i-have-a-website/). 
 - [Find out about my website here](../about-this-website/).
 
 I've got big plans for turning this website into a personal website rather than a chronological list of posts.
